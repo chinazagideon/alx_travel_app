@@ -1,0 +1,40 @@
+# Django Core
+Django==4.2.7
+djangorestframework==3.14.0
+
+# API Documentation
+drf-yasg==1.21.7
+
+# CORS and Security
+django-cors-headers==4.3.1
+django-filter==23.3
+
+# Database
+psycopg2-binary>=2.9.7
+psycopg2-pool>=1.1
+
+# Image Processing
+Pillow==10.1.0
+
+# Background Tasks
+celery==5.3.4
+redis==5.0.1
+
+# Environment Variables
+python-decouple==3.8
+
+# Development Tools
+django-debug-toolbar==4.2.0
+
+# Testing
+pytest==7.4.3
+pytest-django==4.7.0
+
+# Code Quality
+black==23.9.1
+flake8==6.1.0
+isort==5.12.0
+
+# Production
+gunicorn==21.2.0
+whitenoise==6.6.0 

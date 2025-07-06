@@ -12,12 +12,9 @@ DS_Store
 *.sqlite3
 *.db
 *.log
-*.txt
 *.csv
 *.json
 *.xml
-*.yaml
-*.yml
 *.env.local
 *.env.development.local
 *.env.test.local
